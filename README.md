@@ -1,5 +1,6 @@
 # AYANEO-AM01-Hackintosh
 
+B站视频：https://www.bilibili.com/video/BV1ac411D7xe
 
 ![](https://github.com/Xmingbai/AYANEO-AM01-Hackintosh/blob/main/About.png)
 
