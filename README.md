@@ -1,7 +1,7 @@
 # AYANEO-AM01-Hackintosh
 
-更新中
 
+![](https://github.com/Xmingbai/AYANEO-AM01-Hackintosh/blob/main/About.png)
 
 # 主机配置单
 
@@ -11,7 +11,7 @@ CPU ：R7-5700U 八核心十六线程
 
 显卡 ：Vega8
 
-内存 ：威刚笔记本DDR4 3200 8Gx2
+内存 ：三星笔记本DDR4 3200 8Gx2
 
 硬盘 ：官方整机套餐M.2 512G（自购不要选三星OEM产品）
 
@@ -38,11 +38,11 @@ CPU 核心识别正常
 
 USB端口定制
 
-HDMI和DP 显示正常，HDMI支持4K120HZ
+HDMI和DP 显示正常
 
 前置3.5音频正常、HDMI音频支持
 
-有线网卡正常
+有线网卡正常，WIFI未能驱动
 
 睡眠与唤醒正常
 
